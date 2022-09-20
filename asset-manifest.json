@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/40-bit-task-mini-crud/static/css/main.0451f541.css",
+    "main.js": "/40-bit-task-mini-crud/static/js/main.3116e845.js",
+    "index.html": "/40-bit-task-mini-crud/index.html",
+    "main.0451f541.css.map": "/40-bit-task-mini-crud/static/css/main.0451f541.css.map",
+    "main.3116e845.js.map": "/40-bit-task-mini-crud/static/js/main.3116e845.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0451f541.css",
+    "static/js/main.3116e845.js"
+  ]
+}
